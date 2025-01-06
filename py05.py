@@ -1,2 +1,2 @@
-n = float(input('digite um valor'))
-print(n)
+n = input('digite um valor')
+print(n.isnumeric())
