@@ -1,5 +1,3 @@
 text = input('Qual é o seu nome?')
 
-text2 = 'é um prazer te conhecer', text
-
-print(text2)
+print('é um prazer te conhecer {}!'.format(text))
